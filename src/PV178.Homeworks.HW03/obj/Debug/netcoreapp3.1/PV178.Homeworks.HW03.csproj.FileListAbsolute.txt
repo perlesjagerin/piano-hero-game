@@ -1,0 +1,36 @@
+/Users/tuan/Desktop/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW03
+/Users/tuan/Desktop/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW03.deps.json
+/Users/tuan/Desktop/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW03.runtimeconfig.json
+/Users/tuan/Desktop/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW03.runtimeconfig.dev.json
+/Users/tuan/Desktop/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW03.dll
+/Users/tuan/Desktop/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW03.pdb
+/Users/tuan/Desktop/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.csproj.AssemblyReference.cache
+/Users/tuan/Desktop/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuan/Desktop/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.AssemblyInfoInputs.cache
+/Users/tuan/Desktop/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.AssemblyInfo.cs
+/Users/tuan/Desktop/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.csproj.CoreCompileInputs.cache
+/Users/tuan/Desktop/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.dll
+/Users/tuan/Desktop/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.pdb
+/Users/tuan/Desktop/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.genruntimeconfig.cache
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW03
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW03.deps.json
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW03.runtimeconfig.json
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW03.runtimeconfig.dev.json
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW03.dll
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/PV178.Homeworks.HW03.pdb
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.csproj.AssemblyReference.cache
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.AssemblyInfoInputs.cache
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.AssemblyInfo.cs
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.csproj.CoreCompileInputs.cache
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.dll
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.pdb
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.genruntimeconfig.cache
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/CliWrap.dll
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/Microsoft.Maui.Essentials.dll
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/Microsoft.Maui.Graphics.dll
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/Xamarin.Essentials.dll
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/Xamarin.Forms.Core.dll
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/Xamarin.Forms.Platform.dll
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/bin/Debug/netcoreapp3.1/Xamarin.Forms.Xaml.dll
+/Users/tuan/Desktop/muni fi/pv178/hws/hw03/HW03-dotNETCore/src/PV178.Homeworks.HW03/obj/Debug/netcoreapp3.1/PV178.Homeworks.HW03.csproj.CopyComplete
